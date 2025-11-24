@@ -1,12 +1,25 @@
 ---
-slug: "github-c-reference"
-title: "C_Reference"
-repo: "justin-napolitano/C_Reference"
-githubUrl: "https://github.com/justin-napolitano/C_Reference"
-generatedAt: "2025-11-23T08:49:05.947262Z"
-source: "github-auto"
+slug: github-c-reference
+title: 'C Reference: Practical Implementations of Core Algorithms in C'
+repo: justin-napolitano/C_Reference
+githubUrl: https://github.com/justin-napolitano/C_Reference
+generatedAt: '2025-11-23T08:49:05.947262Z'
+source: github-auto
+summary: >-
+  Collection of standalone C programs implementing classic sorting, mathematical, and utility
+  algorithms in clear procedural code.
+tags:
+  - algorithms
+  - sorting
+  - mathematical-algorithms
+  - utilities
+seoPrimaryKeyword: c algorithms
+seoSecondaryKeywords:
+  - sorting algorithms
+  - mathematical algorithms
+  - c programming
+seoOptimized: true
 ---
-
 
 # Technical Overview of C_Reference
 
@@ -73,3 +86,4 @@ To enhance the utility and maintainability of this repository, consider:
 - Adding unit tests and benchmarks for performance evaluation.
 
 This repository serves as a practical toolkit for revisiting foundational C algorithms, useful for learning, teaching, or quick reference in development contexts.
+

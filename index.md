@@ -1,32 +1,41 @@
 ---
 slug: github-c-reference
-title: 'C Reference: Practical Implementations of Core Algorithms in C'
+title: 'C Reference: Essential Algorithms Implemented in C'
 repo: justin-napolitano/C_Reference
 githubUrl: https://github.com/justin-napolitano/C_Reference
 generatedAt: '2025-11-23T08:49:05.947262Z'
 source: github-auto
 summary: >-
-  Collection of standalone C programs implementing classic sorting, mathematical, and utility
-  algorithms in clear procedural code.
+  Explore a collection of fundamental algorithms in C, including sorting and
+  mathematical functions, designed for clarity and practical use.
 tags:
   - algorithms
   - sorting
   - mathematical-algorithms
   - utilities
-seoPrimaryKeyword: c algorithms
-seoSecondaryKeywords:
+  - c programming
   - sorting algorithms
   - mathematical algorithms
-  - c programming
+  - large integer handling
+seoPrimaryKeyword: c reference algorithms
+seoSecondaryKeywords:
+  - c programming examples
+  - sorting algorithms in c
+  - mathematical functions in c
+  - c utilities
+  - large integer arithmetic
 seoOptimized: true
 topicFamily: automation
 topicFamilyConfidence: 0.4
 topicFamilyNotes: >-
-  The content focuses on procedural C implementations of algorithms with practical considerations
-  including build and compilation aspects, but this blog post is primarily code-centric and lacks
-  data science, static site, devtools, or personal lifestyle themes. Among given options,
-  'automation' best fits due to mentions of build automation and compilation, and is the closest
+  The content focuses on procedural C implementations of algorithms with
+  practical considerations including build and compilation aspects, but this
+  blog post is primarily code-centric and lacks data science, static site,
+  devtools, or personal lifestyle themes. Among given options, 'automation' best
+  fits due to mentions of build automation and compilation, and is the closest
   match to a coding/tools-related family.
+kind: project
+id: github-c-reference
 ---
 
 # Technical Overview of C_Reference

@@ -1,19 +1,30 @@
 ---
 slug: github-c-reference
 id: github-c-reference
-title: C_Reference
+title: 'C Algorithms Reference: Sorting, Searching, and More'
 repo: justin-napolitano/C_Reference
 githubUrl: https://github.com/justin-napolitano/C_Reference
 generatedAt: '2025-11-24T21:34:26.782Z'
 source: github-auto
 summary: >-
-  A collection of fundamental C algorithms demonstrating classic sorting,
-  searching, and mathematical computations. This repository serves as a
-  practical reference for common algorithm implementations in C.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  Explore a collection of fundamental C algorithms for sorting, searching, and
+  mathematical computations, suitable for learning and reference.
+tags:
+  - c
+  - sorting algorithms
+  - searching algorithms
+  - mathematical algorithms
+  - gcc
+  - algorithm implementations
+  - utility programs
+seoPrimaryKeyword: c algorithms reference
+seoSecondaryKeywords:
+  - c programming examples
+  - sorting algorithms in c
+  - search algorithms in c
+  - mathematical computations in c
+  - c utility programs
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project

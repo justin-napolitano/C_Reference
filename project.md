@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/C_Reference
 generatedAt: '2025-11-24T21:34:26.782Z'
 source: github-auto
 summary: >-
-  Explore a collection of fundamental C algorithms for sorting, searching, and
-  mathematical computations, designed for learning and reference.
+  Explore a collection of fundamental C algorithms for sorting, searching, and mathematical
+  computations, designed for learning and reference.
 tags:
   - c
   - sorting algorithms
@@ -26,8 +26,8 @@ seoSecondaryKeywords:
   - mathematical computations in c
   - c utility programs
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: devtools
+topicFamilyConfidence: 0.8
 kind: project
 entryLayout: project
 showInProjects: true
@@ -103,5 +103,6 @@ Replace `filename.c` with the desired source file (e.g., `selection.c`).
 
 
 ---
+
 
 
